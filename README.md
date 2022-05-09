@@ -6,7 +6,7 @@ This is the display of Landing Page Eduplace
 
 This the middle of landing page
 
-![alt text](https://github.com/abrardewa/EduplaceLandingpage/blob/14afeb0b36f42dea8e41b06634b45b7770fae020/src/Assets/mid1.png)
+![alt text](https://github.com/abrardewa/EduplaceLandingpage/blob/4d4520a08520963a4bd77d7b89440a013db9106d/src/Assets/Screenshot%202022-05-09%20at%2014.41.16.png)
 ![alt text](https://github.com/abrardewa/EduplaceLandingpage/blob/14afeb0b36f42dea8e41b06634b45b7770fae020/src/Assets/mid2.png)
 
 This the bottom side of landing page
