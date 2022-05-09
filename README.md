@@ -1,3 +1,17 @@
+# Edulab View
+This page was inspired by design skilline by pelorous team and educa by vektora team at dribble.com
+
+This is the display of Landing Page Eduplace
+![alt text](https://github.com/abrardewa/EduplaceLandingpage/blob/14afeb0b36f42dea8e41b06634b45b7770fae020/src/Assets/Top.png)
+
+This the middle of landing page
+
+![alt text](https://github.com/abrardewa/EduplaceLandingpage/blob/14afeb0b36f42dea8e41b06634b45b7770fae020/src/Assets/mid1.png)
+![alt text](https://github.com/abrardewa/EduplaceLandingpage/blob/14afeb0b36f42dea8e41b06634b45b7770fae020/src/Assets/mid2.png)
+
+This the bottom side of landing page
+![alt text](https://github.com/abrardewa/EduplaceLandingpage/blob/14afeb0b36f42dea8e41b06634b45b7770fae020/src/Assets/bot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
